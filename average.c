@@ -3,10 +3,10 @@
 // calculates the average of 3 int values
 int main(void)
 {
-	/* modifications TODO
+/* modifications TODO
      1. Get the 3 values as input from the user 
      2. Calculate the average of 3 random values. Use rand() function to get the three random values
-    */
+*/
 
     int a, b, c;
     float avg;
@@ -19,5 +19,5 @@ int main(void)
 
     printf("Ο μέσος όρος των αριθμών %d, %d και %d είναι: %4.3f\n", a, b, c, avg);
 		
-	return 0;    
+    return 0;    
 }
