@@ -1,3 +1,5 @@
+// Correct the errors
+
 #include <stdio.h>
 
 int main (){
