@@ -32,5 +32,5 @@ int main(void)
   printf("a=%20.17f\n", a);
   printf("b=%20.17f\n", b);
         
-	return 0;    
+  return 0;    
 }
