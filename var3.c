@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	// difference between float and double variables
+  // difference between float and double variables
 
   // initialize variables
   float a=10.0;
