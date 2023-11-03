@@ -8,5 +8,5 @@ int main() {
     
   // Assign values to arr2 as arr2[0]=0, arr2[1]=5, arr2[2]=10, etc 
 
-  
+  return 0;  
 }
