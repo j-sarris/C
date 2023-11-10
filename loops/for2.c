@@ -1,4 +1,5 @@
 // sums up all integers up to a number given by the user
+//E.g. if the user gives 6, the program calculates the sum 1+2+3+4+5+6
 
 #include <stdio.h>
 
