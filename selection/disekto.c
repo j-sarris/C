@@ -3,7 +3,7 @@
 int main(void)
 {
 
-  int year;
+	int year;
 
 	printf("Give year: ");
 	scanf("%d",&year);
