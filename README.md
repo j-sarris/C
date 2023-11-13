@@ -35,3 +35,8 @@ Exercises to practice
    Πχ Είσοδος: Δώστε την πράξη που θέλετε: 6x5 <br />
    Έξοδος 6x5=30 <br />
    Λύση (C/selection/sw1.c)
+
+Δομές επανάληψης (for, while-do, do-while)
+
+11. 
+
