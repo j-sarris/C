@@ -5,7 +5,7 @@
 int main(){
   int a, b;
 
-  printf("Give two integers:5");
+  printf("Give two integers: ");
   scanf("%d %d", &a, &b);
     
   if (a>b)
