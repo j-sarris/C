@@ -15,7 +15,7 @@ int main(void)
 				printf("Disekto\n");
 			else
 				printf("Kanoniko\n");
-    }
+		}
     else 
 		  printf("Disekto\n");
   }
