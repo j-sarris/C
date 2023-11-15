@@ -1,3 +1,4 @@
+// Break a while loop if a negative number is given by the user
 #include <stdio.h>
 
 int main() {
