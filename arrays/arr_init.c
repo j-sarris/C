@@ -14,15 +14,11 @@ int main(){
   }
 
   printf("\n======Print the second array =======\n");
-
-
   for (i=0; i<10; i++){ 
     printf("arr2[%d]=%d\n", i, arr2[i]);
   }
 
   printf("\n======Print the first string=======\n");
-
-
   for (i=0; i<12; i++){ 
     printf("%c", str1[i]);
   }
@@ -30,11 +26,9 @@ int main(){
   printf("\n%s", str1);
 
   printf("\n======Print now the second string=======\n");
-
   for (i=0; i<12; i++){ 
     printf("%c", str2[i]);
   }
-
   printf("\n%s", str2);
 
   return 0;
