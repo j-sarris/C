@@ -5,12 +5,12 @@
 float f(float x);
 
 int main(){
-
   float num; 
 
   printf("Give x: ");
   scanf("%f", &num);
   printf("f(x)=%f", f(num));
+  return 0;
 }
 
 float f(float x)
