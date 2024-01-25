@@ -19,11 +19,11 @@ int main()
 
   password[i] = '\0';
   printf("\nYour password is hacked : ");
-  # print the password by iterating through the table
+  // print the password by iterating through the table
   for(j = 0;j < i;j++)
     printf("%c", password[j]);
 
-  # or print it a a string
+  // or print it a a string
   printf("\n%s", password);
 
   return 0;
