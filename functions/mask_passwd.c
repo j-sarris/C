@@ -23,7 +23,7 @@ int main()
   for(j = 0;j < i;j++)
     printf("%c", password[j]);
 
-  // or print it a a string
+  // or print it as a string
   printf("\n%s", password);
 
   return 0;
