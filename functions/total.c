@@ -14,7 +14,7 @@ int main(){
 
   int num;
 
-  printf("Mexro poion arithmo na a8roiso: ");
+  printf("Mexri poion arithmo na a8roiso: ");
   scanf("%d", &num);
   printf("To a8roisma einai: %d", total(num));
   return 0;
