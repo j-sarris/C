@@ -1,4 +1,4 @@
-// Reads 10 Fahrenhei temperatures given by the user, 
+// Reads 10 Fahrenheit temperatures given by the user, 
 // converts them to Celcius and calculates the average temp
 #include <stdio.h>
 
