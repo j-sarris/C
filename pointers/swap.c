@@ -41,5 +41,5 @@ void swap(int *first, int *second)
   *first=*second;
   *second=temp;
 
-  printf("Inside poor_swap values are: a=%d b=%d\n", *first, *second);
+  printf("Inside swap values are: a=%d b=%d\n", *first, *second);
 }
